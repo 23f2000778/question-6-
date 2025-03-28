@@ -1,402 +1,102 @@
 [
-    {
-        "name": "4",
-        "marks": 20
-    },
-    {
-        "name": "PDceauB",
-        "marks": 55
-    },
-    {
-        "name": "PK8YfO4VWN",
-        "marks": 30
-    },
-    {
-        "name": "1NVMlbtt0",
-        "marks": 75
-    },
-    {
-        "name": "Bcm",
-        "marks": 49
-    },
-    {
-        "name": "BUcKp6Uz",
-        "marks": 69
-    },
-    {
-        "name": "DdVm1",
-        "marks": 45
-    },
-    {
-        "name": "9FFGRQcq",
-        "marks": 27
-    },
-    {
-        "name": "gt3rUWe",
-        "marks": 36
-    },
-    {
-        "name": "zjGAKd91",
-        "marks": 59
-    },
-    {
-        "name": "eTxsm7F",
-        "marks": 49
-    },
-    {
-        "name": "jqNj",
-        "marks": 1
-    },
-    {
-        "name": "uVjgF3JU",
-        "marks": 11
-    },
-    {
-        "name": "mdGJ",
-        "marks": 63
-    },
-    {
-        "name": "8as",
-        "marks": 68
-    },
-    {
-        "name": "MOQDg",
-        "marks": 35
-    },
-    {
-        "name": "Le",
-        "marks": 81
-    },
-    {
-        "name": "Li9u",
-        "marks": 34
-    },
-    {
-        "name": "JdcPhJB",
-        "marks": 53
-    },
-    {
-        "name": "sNAZG3LVR2",
-        "marks": 91
-    },
-    {
-        "name": "faOGTvy",
-        "marks": 73
-    },
-    {
-        "name": "HtgJYdl2c9",
-        "marks": 68
-    },
-    {
-        "name": "PBBY",
-        "marks": 28
-    },
-    {
-        "name": "EzD4T",
-        "marks": 60
-    },
-    {
-        "name": "PLTDz",
-        "marks": 51
-    },
-    {
-        "name": "Mzp4KV",
-        "marks": 63
-    },
-    {
-        "name": "619EF",
-        "marks": 28
-    },
-    {
-        "name": "QVbZ",
-        "marks": 31
-    },
-    {
-        "name": "L",
-        "marks": 3
-    },
-    {
-        "name": "O2c7LNUZy",
-        "marks": 53
-    },
-    {
-        "name": "4r5xfO6ne",
-        "marks": 75
-    },
-    {
-        "name": "o2RvanH",
-        "marks": 66
-    },
-    {
-        "name": "rTGUG",
-        "marks": 38
-    },
-    {
-        "name": "Lak7PpM2T",
-        "marks": 39
-    },
-    {
-        "name": "nZh6",
-        "marks": 76
-    },
-    {
-        "name": "E",
-        "marks": 76
-    },
-    {
-        "name": "EYA1N",
-        "marks": 53
-    },
-    {
-        "name": "wF",
-        "marks": 34
-    },
-    {
-        "name": "nZ1cRMxYk",
-        "marks": 97
-    },
-    {
-        "name": "z",
-        "marks": 37
-    },
-    {
-        "name": "q9AQDW0",
-        "marks": 45
-    },
-    {
-        "name": "O44y3xzam",
-        "marks": 70
-    },
-    {
-        "name": "GQT8QD3",
-        "marks": 19
-    },
-    {
-        "name": "9Q2k",
-        "marks": 0
-    },
-    {
-        "name": "z",
-        "marks": 5
-    },
-    {
-        "name": "pK",
-        "marks": 15
-    },
-    {
-        "name": "L",
-        "marks": 73
-    },
-    {
-        "name": "T7Q7J",
-        "marks": 3
-    },
-    {
-        "name": "MP9epcp",
-        "marks": 46
-    },
-    {
-        "name": "PHxXJGR",
-        "marks": 14
-    },
-    {
-        "name": "kWdx",
-        "marks": 3
-    },
-    {
-        "name": "De0VaPOt",
-        "marks": 7
-    },
-    {
-        "name": "I2PDAd7",
-        "marks": 67
-    },
-    {
-        "name": "5e",
-        "marks": 78
-    },
-    {
-        "name": "N",
-        "marks": 85
-    },
-    {
-        "name": "a",
-        "marks": 88
-    },
-    {
-        "name": "Bm4dEOj",
-        "marks": 41
-    },
-    {
-        "name": "QQWHqv",
-        "marks": 33
-    },
-    {
-        "name": "tKV50Grl97",
-        "marks": 26
-    },
-    {
-        "name": "HsfzrsW6G",
-        "marks": 83
-    },
-    {
-        "name": "cGv",
-        "marks": 41
-    },
-    {
-        "name": "Eb",
-        "marks": 37
-    },
-    {
-        "name": "oUvBRWMyE",
-        "marks": 23
-    },
-    {
-        "name": "rJiEc8FO2",
-        "marks": 36
-    },
-    {
-        "name": "Q6ictmsZC6",
-        "marks": 78
-    },
-    {
-        "name": "Vq0CAh",
-        "marks": 68
-    },
-    {
-        "name": "Smme",
-        "marks": 86
-    },
-    {
-        "name": "hFodLF",
-        "marks": 52
-    },
-    {
-        "name": "RemsVbpC",
-        "marks": 24
-    },
-    {
-        "name": "6RH9Q3xBcn",
-        "marks": 89
-    },
-    {
-        "name": "qUYZ2Z",
-        "marks": 76
-    },
-    {
-        "name": "uFA9Wy7c",
-        "marks": 25
-    },
-    {
-        "name": "PWmu50P",
-        "marks": 88
-    },
-    {
-        "name": "p5Ehdg",
-        "marks": 46
-    },
-    {
-        "name": "K",
-        "marks": 18
-    },
-    {
-        "name": "LZ7",
-        "marks": 37
-    },
-    {
-        "name": "i4WRda8VDt",
-        "marks": 57
-    },
-    {
-        "name": "wZTcDaew",
-        "marks": 72
-    },
-    {
-        "name": "1u",
-        "marks": 43
-    },
-    {
-        "name": "yJH",
-        "marks": 60
-    },
-    {
-        "name": "T0zCig",
-        "marks": 20
-    },
-    {
-        "name": "3qmUsUhXOV",
-        "marks": 16
-    },
-    {
-        "name": "oVZh6GNbaX",
-        "marks": 53
-    },
-    {
-        "name": "jZA",
-        "marks": 41
-    },
-    {
-        "name": "UI2XxX6hx1",
-        "marks": 34
-    },
-    {
-        "name": "4ax1jYT9uW",
-        "marks": 35
-    },
-    {
-        "name": "0zA7yEJD",
-        "marks": 24
-    },
-    {
-        "name": "BIhRmbz",
-        "marks": 16
-    },
-    {
-        "name": "nU4WmZmnRq",
-        "marks": 91
-    },
-    {
-        "name": "8GB1iKpSr",
-        "marks": 78
-    },
-    {
-        "name": "Zkkpgrz",
-        "marks": 44
-    },
-    {
-        "name": "D8mJe",
-        "marks": 35
-    },
-    {
-        "name": "FIJFZtZezl",
-        "marks": 65
-    },
-    {
-        "name": "ih",
-        "marks": 40
-    },
-    {
-        "name": "lh9",
-        "marks": 91
-    },
-    {
-        "name": "Ucd79o",
-        "marks": 86
-    },
-    {
-        "name": "wJtLm",
-        "marks": 98
-    },
-    {
-        "name": "zmkUC",
-        "marks": 69
-    },
-    {
-        "name": "6nSl",
-        "marks": 87
-    },
-    {
-        "name": "APOcH5T",
-        "marks": 65
-    }
+  { "name": "mkV5X", "marks": 98 },
+  { "name": "oEK", "marks": 34 },
+  { "name": "OU", "marks": 88 },
+  { "name": "X03", "marks": 0 },
+  { "name": "U7Dqp", "marks": 51 },
+  { "name": "jW", "marks": 11 },
+  { "name": "KAv", "marks": 38 },
+  { "name": "zxtmK", "marks": 26 },
+  { "name": "Axr", "marks": 97 },
+  { "name": "K439pgS", "marks": 45 },
+  { "name": "tf", "marks": 88 },
+  { "name": "LPPP5YT8", "marks": 51 },
+  { "name": "4ea94", "marks": 17 },
+  { "name": "RPf9ebDyj3", "marks": 2 },
+  { "name": "R9WVC9NeC", "marks": 41 },
+  { "name": "Y46JEy", "marks": 39 },
+  { "name": "4a6cg", "marks": 82 },
+  { "name": "7gm1eV", "marks": 96 },
+  { "name": "MMS", "marks": 42 },
+  { "name": "inUs", "marks": 45 },
+  { "name": "B2TrzZK6", "marks": 41 },
+  { "name": "Ze5", "marks": 88 },
+  { "name": "BQsJcIio5V", "marks": 62 },
+  { "name": "I", "marks": 26 },
+  { "name": "btgI", "marks": 73 },
+  { "name": "rVtf", "marks": 18 },
+  { "name": "bCr1AG", "marks": 72 },
+  { "name": "zDA2", "marks": 65 },
+  { "name": "6ceb", "marks": 94 },
+  { "name": "HZ", "marks": 59 },
+  { "name": "hoaGKn", "marks": 25 },
+  { "name": "ZY1MGFY0lQ", "marks": 38 },
+  { "name": "V5", "marks": 55 },
+  { "name": "r3b", "marks": 40 },
+  { "name": "dD", "marks": 13 },
+  { "name": "OjV0Z", "marks": 27 },
+  { "name": "fghvM4Ps", "marks": 24 },
+  { "name": "KjNBL6", "marks": 19 },
+  { "name": "CD", "marks": 83 },
+  { "name": "N3uv", "marks": 40 },
+  { "name": "78dv", "marks": 25 },
+  { "name": "FB0DEQo", "marks": 90 },
+  { "name": "0wPVqNl", "marks": 94 },
+  { "name": "h7YCzE0", "marks": 55 },
+  { "name": "k", "marks": 21 },
+  { "name": "UHyZmTkeU", "marks": 79 },
+  { "name": "3s", "marks": 84 },
+  { "name": "lVwFfP", "marks": 96 },
+  { "name": "vfNYrNJ", "marks": 60 },
+  { "name": "F9NO1ODSmt", "marks": 41 },
+  { "name": "M5NuUxFb", "marks": 34 },
+  { "name": "uLt", "marks": 51 },
+  { "name": "cK", "marks": 63 },
+  { "name": "r", "marks": 30 },
+  { "name": "Hoz68XnW", "marks": 53 },
+  { "name": "cLJP8VbM", "marks": 2 },
+  { "name": "MEp4RZ", "marks": 4 },
+  { "name": "1VnSpsrZ", "marks": 89 },
+  { "name": "A81t", "marks": 60 },
+  { "name": "7", "marks": 38 },
+  { "name": "gC", "marks": 49 },
+  { "name": "TNWs", "marks": 71 },
+  { "name": "zwK8", "marks": 50 },
+  { "name": "4X6XHa5S1", "marks": 27 },
+  { "name": "6rmq1fmBO", "marks": 40 },
+  { "name": "UjX", "marks": 53 },
+  { "name": "L5J7", "marks": 80 },
+  { "name": "t0Fxw", "marks": 36 },
+  { "name": "1DRWmAB", "marks": 36 },
+  { "name": "3UDOl", "marks": 57 },
+  { "name": "nMOTkcX9L", "marks": 63 },
+  { "name": "xKnDC0MEN", "marks": 9 },
+  { "name": "4Kxa", "marks": 26 },
+  { "name": "37Jw", "marks": 39 },
+  { "name": "uxSAru", "marks": 64 },
+  { "name": "ZsjhtLDX", "marks": 30 },
+  { "name": "p9oAR", "marks": 55 },
+  { "name": "POY", "marks": 70 },
+  { "name": "gz", "marks": 62 },
+  { "name": "nvYW", "marks": 17 },
+  { "name": "25Fgv6r", "marks": 49 },
+  { "name": "b", "marks": 85 },
+  { "name": "H", "marks": 22 },
+  { "name": "R7W2S", "marks": 98 },
+  { "name": "10AYPb", "marks": 33 },
+  { "name": "3Iv6ZgTM6", "marks": 8 },
+  { "name": "ro5ilik", "marks": 53 },
+  { "name": "45nB", "marks": 86 },
+  { "name": "MGRR", "marks": 44 },
+  { "name": "aVg0", "marks": 47 },
+  { "name": "S", "marks": 12 },
+  { "name": "e3gH4EMacj", "marks": 99 },
+  { "name": "QCH5hKEMTk", "marks": 83 },
+  { "name": "3kisF0pN0", "marks": 59 },
+  { "name": "X", "marks": 53 },
+  { "name": "ry5wgLt", "marks": 15 },
+  { "name": "LXC5xg", "marks": 55 },
+  { "name": "bkVa9oeNyg", "marks": 26 },
+  { "name": "yp1WLp", "marks": 76 },
+  { "name": "JZs", "marks": 22 }
 ]
